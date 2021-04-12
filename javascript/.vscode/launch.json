@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "C:\\Users\\Usuário\\Downloads\\estudos-javascript"
+            //para rodar a aplicação é só trocar o caminho de onde está seu arquivo por exemplo
+            //C:\\Users\\Usuário\\Downloads\\estudos-javascript se fosse outro seria
+            //C:\\pasta\\nomedousuario\\pastadoarquivo\\arquivo.html
+        }
+    ]
+}
